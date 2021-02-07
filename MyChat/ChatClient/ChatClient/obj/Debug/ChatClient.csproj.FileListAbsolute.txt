@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Admin\source\repos\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Admin\source\repos\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\Admin\source\repos\MyChat\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Admin\source\repos\MyChat\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Admin\source\repos\MyChat\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Admin\source\repos\MyChat\ChatClient\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MyChat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyChat\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Admin\source\repos\MyChat\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
